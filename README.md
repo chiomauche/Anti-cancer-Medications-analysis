@@ -17,6 +17,8 @@ Pymaceuticals Inc Analysis
 . The gender distribution was nearly equal.50.6% were male and 49.9% were female
 ![Alt text](<Screenshot 2023-10-20 025903.png>)
 
+. In the distribuation of the tumor volume of each mouse across four of the treatment regimens(Capomulin, Ramicane, Infubinol, and Ceftamin), it appears that mice treated with Ramicane exhibited the lowest median final tumor volume. Conversely, mice treated with Infubinol displayed the highest median final tumor volume, which was only slightly greater than the second-highest median final tumor volume observed among mice
+![Alt text](<Screenshot 2023-10-20 032515.png>)
 
 . The Capomulin drug regimen shows a highly significant positive correlation between the weight of the mice and the average tumor volume, with a correlation coefficient of 0.84.
 ![Alt text](<Screenshot 2023-10-20 030144.png>)
